@@ -4,7 +4,7 @@ import { ethers } from "ethers";
 
 import { money } from "../assets";
 import { CustomButton } from "../components";
-import { FormField} from "../Components"
+import { FormField} from "../components"
 import { checkIfImage } from "../utils";
 
 const CreateCampaign = () => {
